@@ -18,12 +18,14 @@ Chatterbox is a web-based blogging platform built using Flask and Bootstrap CSS.
 These instructions will help you set up the Chatterbox project on your local machine for development and testing purposes. 
 
 1. Clone the repository: 
-```git clone https://github.com/metanmai/chatterbox.git```
-
+```zsh
+git clone https://github.com/metanmai/chatterbox.git
+```
 
 2. Install the required dependencies:
-```pip install -r requirements.txt```
-
+```zsh
+pip install -r requirements.txt
+```
 
 3. Run the application:
 ```python
